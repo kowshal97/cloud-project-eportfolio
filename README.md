@@ -1,6 +1,6 @@
 # Cloud Project: PostgreSQL Connection on AWS, GCP, and Azure
 
-This repository contains my cloud computing project submitted for the **ePortfolio Framework Assignment** in the CLCP-1100 course at Durham College.
+This repository contains my cloud computing project submitted for the **ePortfolio Framework Assignment** 
 
 ## 📄 Project File
 👉 [Download the PDF](./Postgre%20connection%20(AWS,GCP,AZURE).pdf)
@@ -23,5 +23,5 @@ This project demonstrates how to:
 ## 📌 Author
 **Kowshal Sugunarajah**  
 Postgraduate – Cloud Computing  
-Durham College (CLCP-1100)
+
 
