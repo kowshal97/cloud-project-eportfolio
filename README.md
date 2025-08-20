@@ -22,6 +22,6 @@ This project demonstrates how to:
 
 ## 📌 Author
 **Kowshal Sugunarajah**  
-Postgraduate – Cloud Computing  
+  
 
 
