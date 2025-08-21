@@ -1,7 +1,5 @@
 # Cloud Project: PostgreSQL Connection on AWS, GCP, and Azure
 
-This repository contains my cloud computing project submitted for the **ePortfolio Framework Assignment** 
-
 ## 📄 Project File
 👉 [Download the PDF](./Postgre%20connection%20(AWS,GCP,AZURE).pdf)
 
